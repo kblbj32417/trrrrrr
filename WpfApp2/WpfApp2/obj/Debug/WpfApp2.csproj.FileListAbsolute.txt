@@ -1,0 +1,15 @@
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+D:\CAD\Desktop\fktest\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
